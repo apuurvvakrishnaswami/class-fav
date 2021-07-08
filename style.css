@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+  background : linear-gradient(#f50c81 0% ,
+#0af2d3 100%);
+  background-repeat:no-repeat;
+  background:linear-gradient(#f50c81 0% ,
+#0af2d3 100%);
+}
+h1 {
+  text-shadow:2px 2px #F8BBD0;
+}
+#bio{
+  padding:20px;
+  font-size:18;
+  text-align:center;
+}
+img {
+  border-radius:50%;
+    width:100px
+}
+.line {
+  height:5px;
+  width:100px;
+  background-color: black;
+ margin-left:3px
+}
+
